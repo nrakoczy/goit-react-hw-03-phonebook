@@ -76,8 +76,8 @@ class App extends Component {
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          fontSize: 40,
-          color: '#010101',
+          fontSize: 26,
+          color: 'black',
         }}
       >
         <div>
